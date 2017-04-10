@@ -1,0 +1,80 @@
+aparatos.sty:\newcommand{\conselho}{\vspace{-2pt}\hspace{-6pt}\mbox{}\begin{tabular}{ll}
+aparatos.sty:\ifdef{\autor}{}{\newcommand{\autor}{\relax}} 
+aparatos.sty:\ifdef{\titulo}{}{\newcommand{\titulo}{Autor da Obra}} 
+aparatos.sty:\newcommand{\linhalayout}[2]{{\tiny\textbf{#1}\quad#2\par}}
+aparatos.sty:\newcommand{\fichalayout}[1]{\includegraphics[width=.8\textwidth]{#1}}
+aparatos.sty:\newcommand{\linha}[2]{\ifdef{#2}{\linhalayout{#1}{#2}}{}}
+aparatos.sty:\newcommand{\tipopadrao}{Libertine}
+aparatos.sty:\newcommand{\DistanciaImagemFront}{\vspace*{.3\textwidth}}
+aparatos.sty:\newcommand{\LarguraFront}{\textwidth}
+aparatos.sty:\newcommand{\TamanhoTitulo}{\Huge}
+aparatos.sty:\newcommand{\titulagemfront}{\IfFileExists{front.png}{\DistanciaImagemFront\includegraphics[width=\LarguraFront]{front.png}}%
+aparatos.sty:\newcommand{\titulagem}{{\vspace*{.12\textheight} 
+aparatos.sty:\newcommand{\sumario}{\begingroup\mbox{}\pagestyle{empty}\pagebreak\ifodd\thepage\paginabranca\fi
+aparatos.sty:\newcommand{\publicidade}{\pagebreak\pagestyle{empty}\parindent0pt
+aparatos.sty:\DeclareOption{bolso}{\renewcommand{\TamanhoTitulo}{\LARGE}}
+aparatos.sty:\DeclareOption{sempart}{\renewcommand{\part}[1]{}}
+aparatos.sty:\DeclareOption{semsumario}{\renewcommand{\sumario}{\relax}}
+aparatos.sty:\DeclareOption{sempublicidade}{\renewcommand{\publicidade}{\relax}}
+aparatos.sty:\DeclareOption{semsumario}{\renewcommand{\sumario}{\ifdef{\titulo}{\part{\titulo}{}}}}
+fichatecnica.sty:\newcommand{\titulo}{A demanda do santo Graal}
+fichatecnica.sty:\newcommand{\subtit}{O manuscrito de Heidelberg}
+fichatecnica.sty:\newcommand{\sumariotitulo}{\titulo}
+fichatecnica.sty:\newcommand{\sumarioautor}{\autor}
+fichatecnica.sty:\newcommand{\organizador}{Marcus Baccega}
+fichatecnica.sty:\newcommand{\tradutor}{Marcus Baccega}
+fichatecnica.sty:\newcommand{\agradecimento}{Álvaro Bragança e ao Brathair}
+fichatecnica.sty:\newcommand{\introdutor}{Introdutor}  % Obrigatório!
+fichatecnica.sty:%\newcommand{\orelha}{}
+fichatecnica.sty:%\newcommand{\quartacapa}{}
+fichatecnica.sty:\newcommand\copyrightlivro{Hedra}
+fichatecnica.sty:\newcommand\copyrighttraducao{Tradutor} % Copy de tradução
+fichatecnica.sty:%\newcommand\copyrightorganizacao{}
+fichatecnica.sty:%\newcommand\copyrightilustracao{}
+fichatecnica.sty:%\newcommand\copyrightintroducao{}
+fichatecnica.sty:\newcommand\titulooriginal{Titulo original}
+fichatecnica.sty:\newcommand\edicaoconsultada{Edição consultada}
+fichatecnica.sty:\newcommand\primeiraedicao{Primeira edição}
+fichatecnica.sty:%\newcommand\agradecimentos{}
+fichatecnica.sty:%\newcommand\indicacao{}
+fichatecnica.sty:%\newcommand\ISBN{}
+fichatecnica.sty:\newcommand\ano{2014}
+fichatecnica.sty:\newcommand{\edicao}{Bruno Costa e Luis Dolhnikoff}
+fichatecnica.sty:\newcommand{\coedicao}{Iuri Pereira}
+fichatecnica.sty:\newcommand\assistencia{Luan Maitan}
+fichatecnica.sty:%\newcommand\revisao{}
+fichatecnica.sty:%\newcommand\preparacao{}
+fichatecnica.sty:%\newcommand\capa{}
+fichatecnica.sty:%\newcommand\dircapa{capa.png}
+fichatecnica.sty:%\newcommand{\grafica}{}
+fichatecnica.sty:%\newcommand{\papelmiolo}{}
+fichatecnica.sty:%\newcommand{\imagemficha}{ficha.eps}  % Para descarregar uma imagem com a ficha catalográfica
+fichatecnica.sty:%\newcommand\instituicao{}
+fichatecnica.sty:%\newcommand\logradouro{}
+fichatecnica.sty:%\newcommand\numero{}
+fichatecnica.sty:%\newcommand\cidadeinstituicao{}
+fichatecnica.sty:%\newcommand\estado{}
+fichatecnica.sty:%\newcommand\cep{}
+fichatecnica.sty:%\newcommand\diretor{}
+fichatecnica.sty:%\newcommand\coordenador{}
+fichatecnica.sty:%\newcommand\turma{}
+fichatecnica.sty:%\newcommand\logo{}
+fichatecnica.sty:\newcommand\cidade{São Paulo}
+fichatecnica.sty:%\newcommand{\release}{}
+fichatecnica.sty:%\newcommand{\trechotexto}{}
+fichatecnica.sty:%\newcommand{\sobreobra}{\textbf{\titulo} \lipsum[1]}
+fichatecnica.sty:%\newcommand{\sobreautor}{\textbf{Nome do autor} \lipsum[2]}
+fichatecnica.sty:%\newcommand{\sobreorganizador}{\lipsum[3]}
+fichatecnica.sty:%\newcommand{\sobretradutor}{\lipsum[4]}
+fichatecnica.sty:%                    \newcommand{\dimensao}{}
+fichatecnica.sty:%                   \newcommand{\peso}{}
+fichatecnica.sty:%                  \newcommand{\gramaturamiolo}{}
+fichatecnica.sty:%                 \newcommand{\cormiolo}{}
+fichatecnica.sty:%\newcommand{\palavraschave}{}
+fichatecnica.sty:%\newcommand{\publicaebook}{} % Boolean
+INTRODUCAO.tex:\newcommand{\lat}{\selectlanguage{latin}{}} \newcommand{\old}{\textsc{old}}
+INTRODUCAO.tex:\newcommand{\lp}{\textsc{lp}}
+INTRODUCAO.tex:\newcommand{\bra}{\selectlanguage{brazilian}{}} \newcommand{\oi}{º}
+INTRODUCAO.tex:\newcommand{\ai}{ª} \newcommand{\dr}{\emph{De oratore}\ }
+INTRODUCAO.tex:\newcommand{\ot}{\emph{Orator}\ }
+ORIGINAL.tex:%\newcommand{\lat}{\emph{\selectlanguage{latin}{}}}
