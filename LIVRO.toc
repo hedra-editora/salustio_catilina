@@ -15,13 +15,13 @@
 \contentsline {section}{Salústio na história}{83}
 \select@language {brazilian}
 \contentsline {section}{Vida de Salústio}{87}
-\contentsline {section}{A obra de Salústio}{94}
+\contentsline {section}{A obra de Salústio}{95}
 \contentsline {section}{Salústio e a historiografia romana}{95}
-\contentsline {section}{Os prefácios}{101}
+\contentsline {section}{Os prefácios}{102}
 \contentsline {section}{Os retratos}{110}
 \contentsline {section}{As digressões}{111}
 \contentsline {section}{Os discursos}{112}
-\contentsline {section}{Os “documentos''}{114}
+\contentsline {section}{Os “documentos''}{115}
 \contentsline {section}{As versões alternativas dos fatos e a imparcialidade do historiador}{115}
 \contentsline {section}{A elocução da \emph {Conjuração de Catilina}}{118}
 \contentsline {section}{A tradução}{124}
