@@ -4,29 +4,28 @@
 \contentsline {paragraph}{Parte I --- Antes do relato da conjuração}{9}
 \contentsline {paragraph}{Parte \textsc {\MakeTextLowercase {II}} --- A conjuração}{9}
 \contentsline {paragraph}{Parte III --- Descoberta da conjuração}{10}
-\contentsline {chapter}{A conjuração de Catilina}{11}
-\contentsline {part}{Titulo da obra}{13}
+\contentsline {part}{A Conjuração de Catilina}{11}
 \select@language {brazilian}
 \select@language {brazilian}
 \select@language {brazilian}
 \select@language {brazilian}
 \select@language {brazilian}
 \select@language {brazilian}
-\contentsline {chapter}{Posfácio: Salústio e a conjuração}{85}
-\contentsline {section}{Salústio na história}{85}
+\contentsline {chapter}{Posfácio: Salústio e a conjuração}{83}
+\contentsline {section}{Salústio na história}{83}
 \select@language {brazilian}
-\contentsline {section}{Vida de Salústio}{89}
-\contentsline {section}{A obra de Salústio}{97}
-\contentsline {section}{Salústio e a historiografia romana}{97}
-\contentsline {section}{Os prefácios}{104}
-\contentsline {section}{Os retratos}{112}
-\contentsline {section}{As digressões}{113}
-\contentsline {section}{Os discursos}{114}
-\contentsline {section}{Os “documentos''}{117}
-\contentsline {section}{As versões alternativas dos fatos e a imparcialidade do historiador}{117}
-\contentsline {section}{A elocução da \emph {Conjuração de Catilina}}{120}
-\contentsline {section}{A tradução}{126}
-\contentsline {section}{Agradecimentos do tradutor}{127}
-\contentsline {section}{Primária}{128}
-\contentsline {section}{Secundária}{131}
+\contentsline {section}{Vida de Salústio}{87}
+\contentsline {section}{A obra de Salústio}{94}
+\contentsline {section}{Salústio e a historiografia romana}{95}
+\contentsline {section}{Os prefácios}{101}
+\contentsline {section}{Os retratos}{110}
+\contentsline {section}{As digressões}{111}
+\contentsline {section}{Os discursos}{112}
+\contentsline {section}{Os “documentos''}{114}
+\contentsline {section}{As versões alternativas dos fatos e a imparcialidade do historiador}{115}
+\contentsline {section}{A elocução da \emph {Conjuração de Catilina}}{118}
+\contentsline {section}{A tradução}{124}
+\contentsline {section}{Agradecimentos do tradutor}{125}
+\contentsline {section}{Primária}{126}
+\contentsline {section}{Secundária}{129}
 \contentsfinish 

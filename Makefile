@@ -1,4 +1,4 @@
-TITULO = "MARX_MANIFESTO"
+TITULO = "SALUSTIO"
 GIT = `git log -1 --date=short --format=format:'%h'`
 # EPUB
 EXTENSAO = png
@@ -23,7 +23,7 @@ test:
 	evince LIVRO.pdf
 
 clean:
-	-rm *aux *log *tui *toc *.4ct *.4tc *.html *.css *.dvi *.epub *.lg *.ncx *.xref *.tmp *.idv *.opf *.fls *_latexmk LIVRO.pdf
+	-rm *aux *log *tui *toc *xdv *.4ct *.4tc *.html *.css *.dvi *.epub *.lg *.ncx *.xref *.tmp *.idv *.opf *.fls *_latexmk LIVRO.pdf
 	-rm -rf EBOOK-epub
 	-rm -rf EBOOK-epub3
 	-rm -rf EBOOK-mobi
