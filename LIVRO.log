@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  19 MAR 2018 15:51
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  19 MAR 2018 16:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1691,13 +1691,13 @@ Overfull \vbox (20.46236pt too high) has occurred while \output is active []
 
 
 [21]
-Overfull \hbox (2.48453pt too wide) in paragraph at lines 252--275
-\TU/LinuxLibertineO(0)/m/n/10.95 Entregavam-se às rixas, às discórdias, às riva
-lidades com
+Overfull \hbox (9.72253pt too wide) in paragraph at lines 252--275
+\TU/LinuxLibertineO(0)/m/n/10.95 vam mais pelas leis do que pela natureza[]. 2.
+ Entregavam-
  []
 
 
-Overfull \vbox (9.7563pt too high) has occurred while \output is active []
+Overfull \vbox (10.86226pt too high) has occurred while \output is active []
 
 
 [22]
@@ -1756,6 +1756,12 @@ Overfull \vbox (17.30614pt too high) has occurred while \output is active []
 
 
 [32]
+Overfull \hbox (7.85007pt too wide) in paragraph at lines 497--544
+\TU/LinuxLibertineO(0)/m/n/10.95 sião, os riscos, a pobreza, os magníficos espó
+lios de guerra
+ []
+
+
 Overfull \vbox (14.10606pt too high) has occurred while \output is active []
 
 
@@ -1764,11 +1770,23 @@ Overfull \vbox (8.26225pt too high) has occurred while \output is active []
 
 
 [34]
-Overfull \vbox (19.26228pt too high) has occurred while \output is active []
+Overfull \vbox (19.30608pt too high) has occurred while \output is active []
 
 
 [35]
-Overfull \vbox (16.7061pt too high) has occurred while \output is active []
+Overfull \hbox (6.10658pt too wide) in paragraph at lines 564--594
+\TU/LinuxLibertineO(0)/m/n/10.95 sangue de um corpo humano misturado com vinho;
+ 2. daí,
+ []
+
+
+Overfull \hbox (5.35345pt too wide) in paragraph at lines 564--594
+\TU/LinuxLibertineO(0)/m/n/10.95 sacrifícios solenes, teria revelado seu plano,
+ assim agindo
+ []
+
+
+Overfull \vbox (16.66231pt too high) has occurred while \output is active []
 
 
 [36]
@@ -1776,15 +1794,14 @@ Overfull \vbox (16.66228pt too high) has occurred while \output is active []
 
 
 [37]
-Overfull \vbox (14.0623pt too high) has occurred while \output is active []
+Overfull \vbox (11.4623pt too high) has occurred while \output is active []
 
 
 [38]
-Overfull \vbox (6.44234pt too high) has occurred while \output is active []
+Overfull \vbox (13.69pt too high) has occurred while \output is active []
 
-
-[39]
-Overfull \vbox (11.46223pt too high) has occurred while \output is active []
+ [39]
+Overfull \vbox (11.08994pt too high) has occurred while \output is active []
 
 
 [40]
@@ -1796,7 +1813,7 @@ Overfull \vbox (8.26228pt too high) has occurred while \output is active []
 
 
 [42]
-Overfull \vbox (19.3061pt too high) has occurred while \output is active []
+Overfull \vbox (19.26231pt too high) has occurred while \output is active []
 
 
 [43]
@@ -1804,11 +1821,11 @@ Overfull \vbox (14.1061pt too high) has occurred while \output is active []
 
 
 [44] [45]
-Overfull \vbox (10.77466pt too high) has occurred while \output is active []
+Overfull \vbox (10.86226pt too high) has occurred while \output is active []
 
 
 [46]
-Overfull \vbox (13.46227pt too high) has occurred while \output is active []
+Overfull \vbox (13.50606pt too high) has occurred while \output is active []
 
 
 [47]
@@ -1816,7 +1833,7 @@ Overfull \vbox (19.30608pt too high) has occurred while \output is active []
 
 
 [48]
-Overfull \vbox (8.26225pt too high) has occurred while \output is active []
+Overfull \vbox (8.30605pt too high) has occurred while \output is active []
 
 
 [49]
@@ -1826,7 +1843,7 @@ quando
  []
 
 
-Overfull \vbox (16.66231pt too high) has occurred while \output is active []
+Overfull \vbox (16.7061pt too high) has occurred while \output is active []
 
 
 [50]
@@ -1844,7 +1861,7 @@ Overfull \hbox (5.89363pt too wide) in paragraph at lines 944--963
  []
 
 
-Overfull \vbox (8.30605pt too high) has occurred while \output is active []
+Overfull \vbox (8.26225pt too high) has occurred while \output is active []
 
 
 [53] [54] [55]
@@ -1854,19 +1871,19 @@ costumava
  []
 
 [56]
-Overfull \vbox (15.55632pt too high) has occurred while \output is active []
+Overfull \vbox (16.70607pt too high) has occurred while \output is active []
 
 
 [57] [58] [59] [60]
-Overfull \vbox (8.30608pt too high) has occurred while \output is active []
+Overfull \vbox (8.26228pt too high) has occurred while \output is active []
 
 
 [61]
-Overfull \vbox (8.86229pt too high) has occurred while \output is active []
+Overfull \vbox (8.48999pt too high) has occurred while \output is active []
 
 
 [62]
-Overfull \vbox (10.90605pt too high) has occurred while \output is active []
+Overfull \vbox (10.86226pt too high) has occurred while \output is active []
 
 
 [63]
@@ -1874,39 +1891,31 @@ Overfull \vbox (11.4623pt too high) has occurred while \output is active []
 
 
 [64]
-Overfull \vbox (19.90608pt too high) has occurred while \output is active []
+Overfull \vbox (19.86229pt too high) has occurred while \output is active []
 
 
 [65]
-Overfull \vbox (8.86223pt too high) has occurred while \output is active []
+Overfull \vbox (19.86226pt too high) has occurred while \output is active []
 
 
-[66]
-Overfull \vbox (13.46227pt too high) has occurred while \output is active []
-
-
-[67]
-Overfull \vbox (8.90611pt too high) has occurred while \output is active []
+[66] [67]
+Overfull \vbox (17.30614pt too high) has occurred while \output is active []
 
 
 [68]
-Overfull \vbox (14.66225pt too high) has occurred while \output is active []
+Overfull \vbox (19.86226pt too high) has occurred while \output is active []
 
 
 [69]
-Overfull \vbox (10.86226pt too high) has occurred while \output is active []
+Overfull \vbox (8.26228pt too high) has occurred while \output is active []
 
 
 [70]
-Overfull \vbox (10.86229pt too high) has occurred while \output is active []
+Overfull \vbox (16.66228pt too high) has occurred while \output is active []
 
 
-[71]
-Overfull \vbox (19.26225pt too high) has occurred while \output is active []
-
-
-[72]
-Overfull \vbox (9.7563pt too high) has occurred while \output is active []
+[71] [72]
+Overfull \vbox (14.10606pt too high) has occurred while \output is active []
 
 
 [73]
@@ -1916,11 +1925,11 @@ cava um
  []
 
 
-Overfull \vbox (12.06233pt too high) has occurred while \output is active []
+Overfull \vbox (8.90611pt too high) has occurred while \output is active []
 
 
 [74]
-Overfull \vbox (11.4623pt too high) has occurred while \output is active []
+Overfull \vbox (8.90608pt too high) has occurred while \output is active []
 
 
 [75]
@@ -1936,11 +1945,11 @@ una na guerra,
  []
 
 
-Overfull \vbox (16.7061pt too high) has occurred while \output is active []
+Overfull \vbox (14.10606pt too high) has occurred while \output is active []
 
 
 [76]
-Overfull \vbox (8.30608pt too high) has occurred while \output is active []
+Overfull \vbox (13.50606pt too high) has occurred while \output is active []
 
 
 [77]
@@ -1948,15 +1957,15 @@ Overfull \vbox (13.50606pt too high) has occurred while \output is active []
 
 
 [78]
-Overfull \vbox (10.90605pt too high) has occurred while \output is active []
+Overfull \vbox (10.86226pt too high) has occurred while \output is active []
 
 
 [79]
-Overfull \vbox (16.70604pt too high) has occurred while \output is active []
+Overfull \vbox (15.55629pt too high) has occurred while \output is active []
 
 
 [80]
-Overfull \vbox (14.1061pt too high) has occurred while \output is active []
+Overfull \vbox (14.0623pt too high) has occurred while \output is active []
 
 
 [81]) (./POSFACIO.tex [82]
@@ -2405,12 +2414,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26379 strings out of 493010
- 484576 string characters out of 6140134
- 758333 words of memory out of 5000000
- 29866 multiletter control sequences out of 15000+600000
+ 26377 strings out of 493010
+ 484546 string characters out of 6140134
+ 761333 words of memory out of 5000000
+ 29864 multiletter control sequences out of 15000+600000
  543935 words of font info for 107 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  55i,12n,87p,10388b,566s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (136 pages, 2322636 bytes).
+Output written on LIVRO.xdv (136 pages, 2322684 bytes).
