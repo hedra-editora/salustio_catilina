@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  19 MAR 2018 14:19
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  19 MAR 2018 15:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1677,7 +1677,7 @@ Overfull \vbox (16.66228pt too high) has occurred while \output is active []
 
 
 [19]
-Overfull \hbox (4.57964pt too wide) in paragraph at lines 190--215
+Overfull \hbox (4.57964pt too wide) in paragraph at lines 190--216
 \TU/LinuxLibertineO(0)/m/n/10.95 preparam-se, encorajam-se uns aos outros, avan
 çam con-
  []
@@ -1691,7 +1691,7 @@ Overfull \vbox (20.46236pt too high) has occurred while \output is active []
 
 
 [21]
-Overfull \hbox (2.48453pt too wide) in paragraph at lines 251--274
+Overfull \hbox (2.48453pt too wide) in paragraph at lines 252--275
 \TU/LinuxLibertineO(0)/m/n/10.95 Entregavam-se às rixas, às discórdias, às riva
 lidades com
  []
@@ -1701,7 +1701,7 @@ Overfull \vbox (9.7563pt too high) has occurred while \output is active []
 
 
 [22]
-Overfull \hbox (3.98834pt too wide) in paragraph at lines 275--294
+Overfull \hbox (3.98834pt too wide) in paragraph at lines 276--296
 \TU/LinuxLibertineO(0)/m/n/10.95 gentes feras e povos poderosos foram submetido
 s à força,
  []
@@ -1736,9 +1736,9 @@ Overfull \vbox (16.7061pt too high) has occurred while \output is active []
 
 [29]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 415.
+(Font)              <9> on input line 417.
 
-Overfull \hbox (2.12325pt too wide) in paragraph at lines 414--440
+Overfull \hbox (2.12325pt too wide) in paragraph at lines 416--442
 \TU/LinuxLibertineO(0)/m/n/10.95 convoca-os todos, exorta a uns, a outros, sond
 a, informa-
  []
@@ -1820,7 +1820,7 @@ Overfull \vbox (8.26225pt too high) has occurred while \output is active []
 
 
 [49]
-Overfull \hbox (3.73775pt too wide) in paragraph at lines 859--872
+Overfull \hbox (3.73775pt too wide) in paragraph at lines 861--874
 \TU/LinuxLibertineO(0)/m/n/10.95 Crasso[], homens jovens, obtendo enorme poder 
 quando
  []
@@ -1838,7 +1838,7 @@ Overfull \vbox (8.30605pt too high) has occurred while \output is active []
 
 
 [52]
-Overfull \hbox (5.89363pt too wide) in paragraph at lines 942--961
+Overfull \hbox (5.89363pt too wide) in paragraph at lines 944--963
 \TU/LinuxLibertineO(0)/m/n/10.95 atribuiria ao excelente cônsul a odiosidade de
  uma guerra
  []
@@ -1848,7 +1848,7 @@ Overfull \vbox (8.30605pt too high) has occurred while \output is active []
 
 
 [53] [54] [55]
-Overfull \hbox (0.7581pt too wide) in paragraph at lines 1009--1033
+Overfull \hbox (0.7581pt too wide) in paragraph at lines 1011--1035
 \TU/LinuxLibertineO(0)/m/n/10.95 dissimulava, pela carta e pelas conversas que 
 costumava
  []
@@ -1910,7 +1910,7 @@ Overfull \vbox (9.7563pt too high) has occurred while \output is active []
 
 
 [73]
-Overfull \hbox (0.16435pt too wide) in paragraph at lines 1395--1417
+Overfull \hbox (0.16435pt too wide) in paragraph at lines 1397--1419
 \TU/LinuxLibertineO(0)/m/n/10.95 não recusa do que merecesse ser concedido; bus
 cava um
  []
@@ -1924,13 +1924,13 @@ Overfull \vbox (11.4623pt too high) has occurred while \output is active []
 
 
 [75]
-Overfull \hbox (2.38602pt too wide) in paragraph at lines 1460--1479
+Overfull \hbox (2.38602pt too wide) in paragraph at lines 1462--1481
 \TU/LinuxLibertineO(0)/m/n/10.95 rança de pilhagens ou pelo desejo de revolução
 , dispersa-
  []
 
 
-Overfull \hbox (3.5723pt too wide) in paragraph at lines 1460--1479
+Overfull \hbox (3.5723pt too wide) in paragraph at lines 1462--1481
 \TU/LinuxLibertineO(0)/m/n/10.95 lhor a fazer em tal situação era tentar a fort
 una na guerra,
  []
@@ -2413,4 +2413,4 @@ Here is how much of TeX's memory you used:
  1372 hyphenation exceptions out of 8191
  55i,12n,87p,10388b,566s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (136 pages, 2322532 bytes).
+Output written on LIVRO.xdv (136 pages, 2322636 bytes).
