@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.12.13)  14 MAR 2018 16:40
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  19 MAR 2018 14:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1677,7 +1677,7 @@ Overfull \vbox (16.66228pt too high) has occurred while \output is active []
 
 
 [19]
-Overfull \hbox (4.57964pt too wide) in paragraph at lines 191--216
+Overfull \hbox (4.57964pt too wide) in paragraph at lines 190--215
 \TU/LinuxLibertineO(0)/m/n/10.95 preparam-se, encorajam-se uns aos outros, avan
 çam con-
  []
@@ -1691,7 +1691,7 @@ Overfull \vbox (20.46236pt too high) has occurred while \output is active []
 
 
 [21]
-Overfull \hbox (2.48453pt too wide) in paragraph at lines 252--275
+Overfull \hbox (2.48453pt too wide) in paragraph at lines 251--274
 \TU/LinuxLibertineO(0)/m/n/10.95 Entregavam-se às rixas, às discórdias, às riva
 lidades com
  []
@@ -1701,7 +1701,7 @@ Overfull \vbox (9.7563pt too high) has occurred while \output is active []
 
 
 [22]
-Overfull \hbox (3.98834pt too wide) in paragraph at lines 276--295
+Overfull \hbox (3.98834pt too wide) in paragraph at lines 275--294
 \TU/LinuxLibertineO(0)/m/n/10.95 gentes feras e povos poderosos foram submetido
 s à força,
  []
@@ -1736,9 +1736,9 @@ Overfull \vbox (16.7061pt too high) has occurred while \output is active []
 
 [29]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 416.
+(Font)              <9> on input line 415.
 
-Overfull \hbox (2.12325pt too wide) in paragraph at lines 415--441
+Overfull \hbox (2.12325pt too wide) in paragraph at lines 414--440
 \TU/LinuxLibertineO(0)/m/n/10.95 convoca-os todos, exorta a uns, a outros, sond
 a, informa-
  []
@@ -1820,7 +1820,7 @@ Overfull \vbox (8.26225pt too high) has occurred while \output is active []
 
 
 [49]
-Overfull \hbox (3.73775pt too wide) in paragraph at lines 860--873
+Overfull \hbox (3.73775pt too wide) in paragraph at lines 859--872
 \TU/LinuxLibertineO(0)/m/n/10.95 Crasso[], homens jovens, obtendo enorme poder 
 quando
  []
@@ -1838,7 +1838,7 @@ Overfull \vbox (8.30605pt too high) has occurred while \output is active []
 
 
 [52]
-Overfull \hbox (5.89363pt too wide) in paragraph at lines 943--962
+Overfull \hbox (5.89363pt too wide) in paragraph at lines 942--961
 \TU/LinuxLibertineO(0)/m/n/10.95 atribuiria ao excelente cônsul a odiosidade de
  uma guerra
  []
@@ -1848,7 +1848,7 @@ Overfull \vbox (8.30605pt too high) has occurred while \output is active []
 
 
 [53] [54] [55]
-Overfull \hbox (0.7581pt too wide) in paragraph at lines 1010--1034
+Overfull \hbox (0.7581pt too wide) in paragraph at lines 1009--1033
 \TU/LinuxLibertineO(0)/m/n/10.95 dissimulava, pela carta e pelas conversas que 
 costumava
  []
@@ -1910,7 +1910,7 @@ Overfull \vbox (9.7563pt too high) has occurred while \output is active []
 
 
 [73]
-Overfull \hbox (0.16435pt too wide) in paragraph at lines 1396--1418
+Overfull \hbox (0.16435pt too wide) in paragraph at lines 1395--1417
 \TU/LinuxLibertineO(0)/m/n/10.95 não recusa do que merecesse ser concedido; bus
 cava um
  []
@@ -1924,13 +1924,13 @@ Overfull \vbox (11.4623pt too high) has occurred while \output is active []
 
 
 [75]
-Overfull \hbox (2.38602pt too wide) in paragraph at lines 1461--1480
+Overfull \hbox (2.38602pt too wide) in paragraph at lines 1460--1479
 \TU/LinuxLibertineO(0)/m/n/10.95 rança de pilhagens ou pelo desejo de revolução
 , dispersa-
  []
 
 
-Overfull \hbox (3.5723pt too wide) in paragraph at lines 1461--1480
+Overfull \hbox (3.5723pt too wide) in paragraph at lines 1460--1479
 \TU/LinuxLibertineO(0)/m/n/10.95 lhor a fazer em tal situação era tentar a fort
 una na guerra,
  []
@@ -2372,16 +2372,14 @@ in Classical Historiography\TU/LinuxLibertineO(0)/m/n/9 . Routledge, Lon-
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
-(/home/editorial/texmf/tex/tex/PUBLICIDADE.tex [131
+(/home/editorial/texmf/tex/PUBLICIDADE.tex [131
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 6--8
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- []
-
-[132]
+ [132]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [133]
@@ -2391,7 +2389,10 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [134]
-[135]) [136
+Underfull \vbox (badness 1975) has occurred while \output is active []
+
+ [135])
+[136
 
 
 ]
@@ -2404,12 +2405,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26382 strings out of 493010
- 484634 string characters out of 6140133
- 758531 words of memory out of 5000000
- 29868 multiletter control sequences out of 15000+600000
+ 26379 strings out of 493010
+ 484576 string characters out of 6140134
+ 758333 words of memory out of 5000000
+ 29866 multiletter control sequences out of 15000+600000
  543935 words of font info for 107 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  55i,12n,87p,10388b,566s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (136 pages, 2319608 bytes).
+Output written on LIVRO.xdv (136 pages, 2322532 bytes).
