@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1521489262 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1521489262
-  "LIVRO.xdv" 1521489262 2322684 39b9ec40c10a767b868c8a98f6b0c804 "xelatex"
+["xdvipdfmx"] 1521566059 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1521566059
+  "LIVRO.xdv" 1521566059 2326200 bbb787ae1d743ec56582526116e810ef "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1521489260 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1521489262
+["xelatex"] 1521566056 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1521566059
   "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1510857866 10498 1389d2b92e500f1dca4cbacae732b7c6 ""
   "/home/editorial/texmf/tex/aparatos.sty" 1492700150 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1492700150 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -18,6 +18,7 @@
   "/home/editorial/texmf/tex/hedrastyles.sty" 1492700151 8864 1415f68b03c9b11306f4e19140afce23 ""
   "/home/editorial/texmf/tex/hifensextras.sty" 1492700151 354 2ad7563e4b3dac59bee3b502851cb894 ""
   "/home/editorial/texmf/tex/listingx.sty" 1492700151 382 5ac89aff81857e4e7a0225a4eae88d32 ""
+  "/home/editorial/texmf/tex/penalidades.sty" 1492700151 5285 18e80aeaf88f978c2e3015ab1691a5e2 ""
   "/home/editorial/texmf/tex/tabelas.sty" 1492700151 766 c86a62785f03c41dd28e2c670ec200e6 ""
   "/home/editorial/texmf/tex/tipografia.sty" 1510857867 10015 6584c30f4c1a0d8b4eaebcc16fad9aa4 ""
   "/home/editorial/texmf/tex/toc.sty" 1510857867 3584 8a6cd48c4fd761cc0f8988b9f7ec2521 ""
@@ -161,21 +162,21 @@
   "/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1510784347 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1510784374 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1516130245 4066334 455a595bfa61ab60d620b040bfc81aa6 ""
-  "INPUTS.aux" 1521489262 4694 1db904b92d626b3d56001ea97d36f875 ""
+  "INPUTS.aux" 1521566058 4695 00923d913f67b6ce5fadafe40ab46961 ""
   "INPUTS.tex" 1521218302 103 2c25626f91f248cf0a50a9fc4337bbb8 ""
   "INTRODUCAO.tex" 1521476417 5927 701cb6f0bf0518215974c74168b24f57 ""
-  "LIVRO.aux" 1521489262 501 0c12ea899ea9f46577ab98878d32787d ""
-  "LIVRO.tex" 1521218302 292 8573aa098f77897e5f481ff94c7e393a ""
-  "LIVRO.toc" 1521489262 1564 d144170aabdd0f31f2d16c1dec9b69a1 ""
-  "ORIGINAL.tex" 1521489244 118854 59585e23f35dd36f7334410be566a9d2 ""
-  "POSFACIO.tex" 1521218302 84903 46ba1376af93b7a9a8d84eaadcb10ee9 ""
-  "PUBLICIDADE.aux" 1521489262 1740 233546634406d5b6080f4d47e6550b15 ""
+  "LIVRO.aux" 1521566059 501 4b8a83ce48f0dee68a05ade172bbf91a ""
+  "LIVRO.tex" 1521494214 317 28ecbdc85986e8bf0d1b81c342ce7e9d ""
+  "LIVRO.toc" 1521566059 1565 b305df98343d548e5e0850868c339f57 ""
+  "ORIGINAL.tex" 1521565980 119110 fb6c3d4636ad78385d53e761ca273e46 ""
+  "POSFACIO.tex" 1521494214 84957 1e54b28df285f73425fc8c31ee2d22fe ""
+  "PUBLICIDADE.aux" 1521566059 1740 9c6b74e258023123d87aea8cc7280dc2 ""
   "fichatecnica.sty" 1521480549 2224 4ee5a1b03a850a78a0829d2d89700b42 ""
-  "gitrevisioninfo.sty" 1521489259 35 c932a753eb8bdbbc7d6b0a2c949fb831 ""
+  "gitrevisioninfo.sty" 1521566056 35 8f01161b66915fdca4c6b95f5d1bec4f ""
   (generated)
-  "INPUTS.aux"
   "PUBLICIDADE.aux"
-  "LIVRO.aux"
+  "INPUTS.aux"
   "LIVRO.xdv"
-  "LIVRO.toc"
   "LIVRO.log"
+  "LIVRO.aux"
+  "LIVRO.toc"

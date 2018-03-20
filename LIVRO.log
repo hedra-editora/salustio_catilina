@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  19 MAR 2018 16:54
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  20 MAR 2018 14:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1419,50 +1419,51 @@ e .
 \@CToldrule=\dimen321
 \CT@t=\box56
 \@CTcurftwidth=\dimen322
-)) (/home/editorial/texmf/tex/versos.sty) (./gitrevisioninfo.sty) (./LIVRO.aux
-(./INPUTS.aux) (./PUBLICIDADE.aux))
+)) (/home/editorial/texmf/tex/versos.sty)
+(/home/editorial/texmf/tex/penalidades.sty) (./gitrevisioninfo.sty)
+(./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux))
 \openout1 = `LIVRO.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 10.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 11.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 11.
 
 (/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 10.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 10.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 11.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 11.
 
 (/usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 10.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 11.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    ... okay on input line 11.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-LaTeX Info: Redefining \dots on input line 10.
-LaTeX Info: Redefining \up on input line 10.
-LaTeX Info: Redefining \microtypecontext on input line 10.
+LaTeX Info: Redefining \dots on input line 11.
+LaTeX Info: Redefining \up on input line 11.
+LaTeX Info: Redefining \microtypecontext on input line 11.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1479,67 +1480,67 @@ Package microtype Info: Loading generic protrusion settings for font family
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 10.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 10.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 10.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 10.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 10.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 10.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 10.
-LaTeX Font Info:    Redeclaring math accent \check on input line 10.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 10.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 10.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 10.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 10.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 10.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 11.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 11.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 11.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 11.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 11.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 11.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 11.
+LaTeX Font Info:    Redeclaring math accent \check on input line 11.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 11.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 11.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 11.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 11.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 10.
+(Font)              `operators' in the math version `normal' on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line
- 10.
+ 11.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 10.
+(Font)              `operators' in the math version `bold' on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input lin
-e 10.
+e 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n
- on input line 10.
+ on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input li
-ne 10.
+ne 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/bx/n on input li
-ne 10.
+ne 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 10.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 10.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/bx/
-n on input line 10.
+n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/bx/it on input 
-line 10.
+line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 10.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 10.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 11.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 10.
+(lastpage)             ! on input line 11.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
@@ -1562,9 +1563,9 @@ Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <7> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 10.
+(Font)              <5> on input line 11.
 
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -1584,7 +1585,7 @@ Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 10.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 11.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -1623,17 +1624,7 @@ Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-
-Overfull \hbox (2.41154pt too wide) in paragraph at lines 20--41
-\TU/LinuxLibertineO(0)/m/n/10.95 variadas ordens sociais, decide recorrer à rev
-olta armada
- []
-
-
-Overfull \vbox (5.42908pt too high) has occurred while \output is active []
-
-
-[7] [8]
+ [7] [8]
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
@@ -1641,7 +1632,7 @@ Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
 
-Overfull \vbox (15.63826pt too high) has occurred while \output is active []
+Overfull \vbox (16.19405pt too high) has occurred while \output is active []
 
 
 [9]) (./ORIGINAL.tex [10] [11
@@ -1665,159 +1656,110 @@ Overfull \vbox (12.10606pt too high) has occurred while \output is active []
 
 
 [16]
-Overfull \vbox (15.86235pt too high) has occurred while \output is active []
+Overfull \vbox (2.30614pt too high) has occurred while \output is active []
 
 
 [17]
-Overfull \vbox (13.26234pt too high) has occurred while \output is active []
+Overfull \vbox (13.30614pt too high) has occurred while \output is active []
 
 
 [18]
-Overfull \vbox (16.66228pt too high) has occurred while \output is active []
+Overfull \vbox (3.10606pt too high) has occurred while \output is active []
 
 
 [19]
-Overfull \hbox (4.57964pt too wide) in paragraph at lines 190--216
-\TU/LinuxLibertineO(0)/m/n/10.95 preparam-se, encorajam-se uns aos outros, avan
-çam con-
- []
-
-
-Overfull \vbox (8.86223pt too high) has occurred while \output is active []
+Overfull \vbox (8.90602pt too high) has occurred while \output is active []
 
 
 [20]
-Overfull \vbox (20.46236pt too high) has occurred while \output is active []
+Overfull \vbox (20.50615pt too high) has occurred while \output is active []
 
 
 [21]
-Overfull \hbox (9.72253pt too wide) in paragraph at lines 252--275
-\TU/LinuxLibertineO(0)/m/n/10.95 vam mais pelas leis do que pela natureza[]. 2.
- Entregavam-
- []
-
-
-Overfull \vbox (10.86226pt too high) has occurred while \output is active []
+Overfull \vbox (8.40945pt too high) has occurred while \output is active []
 
 
 [22]
-Overfull \hbox (3.98834pt too wide) in paragraph at lines 276--296
-\TU/LinuxLibertineO(0)/m/n/10.95 gentes feras e povos poderosos foram submetido
-s à força,
- []
-
-
 Overfull \vbox (9.50606pt too high) has occurred while \output is active []
 
 
 [23]
-Overfull \vbox (8.30605pt too high) has occurred while \output is active []
-
-
-[24]
 Overfull \vbox (8.26225pt too high) has occurred while \output is active []
 
 
-[25]
-Overfull \vbox (8.90602pt too high) has occurred while \output is active []
+[24] [25]
+Overfull \vbox (8.86223pt too high) has occurred while \output is active []
 
 
 [26]
-Overfull \vbox (14.0623pt too high) has occurred while \output is active []
+Overfull \vbox (19.26228pt too high) has occurred while \output is active []
 
 
 [27]
-Overfull \vbox (14.66225pt too high) has occurred while \output is active []
+Overfull \vbox (9.46227pt too high) has occurred while \output is active []
 
 
 [28]
-Overfull \vbox (16.7061pt too high) has occurred while \output is active []
+Overfull \vbox (19.30608pt too high) has occurred while \output is active []
 
 
 [29]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 417.
+(Font)              <9> on input line 418.
 
-Overfull \hbox (2.12325pt too wide) in paragraph at lines 416--442
-\TU/LinuxLibertineO(0)/m/n/10.95 convoca-os todos, exorta a uns, a outros, sond
-a, informa-
- []
-
-
-Overfull \vbox (2.94188pt too high) has occurred while \output is active []
+Overfull \vbox (14.10612pt too high) has occurred while \output is active []
 
 
 [30]
-Overfull \vbox (12.06236pt too high) has occurred while \output is active []
+Overfull \vbox (12.10616pt too high) has occurred while \output is active []
 
 
 [31]
-Overfull \vbox (17.30614pt too high) has occurred while \output is active []
+Overfull \vbox (17.26234pt too high) has occurred while \output is active []
 
 
 [32]
-Overfull \hbox (7.85007pt too wide) in paragraph at lines 497--544
-\TU/LinuxLibertineO(0)/m/n/10.95 sião, os riscos, a pobreza, os magníficos espó
-lios de guerra
- []
-
-
-Overfull \vbox (14.10606pt too high) has occurred while \output is active []
+Overfull \vbox (12.95631pt too high) has occurred while \output is active []
 
 
 [33]
-Overfull \vbox (8.26225pt too high) has occurred while \output is active []
+Overfull \vbox (7.1563pt too high) has occurred while \output is active []
 
 
 [34]
-Overfull \vbox (19.30608pt too high) has occurred while \output is active []
+Overfull \vbox (19.26228pt too high) has occurred while \output is active []
 
 
 [35]
-Overfull \hbox (6.10658pt too wide) in paragraph at lines 564--594
-\TU/LinuxLibertineO(0)/m/n/10.95 sangue de um corpo humano misturado com vinho;
- 2. daí,
- []
-
-
-Overfull \hbox (5.35345pt too wide) in paragraph at lines 564--594
-\TU/LinuxLibertineO(0)/m/n/10.95 sacrifícios solenes, teria revelado seu plano,
- assim agindo
- []
-
-
-Overfull \vbox (16.66231pt too high) has occurred while \output is active []
+Overfull \vbox (16.7061pt too high) has occurred while \output is active []
 
 
 [36]
-Overfull \vbox (16.66228pt too high) has occurred while \output is active []
+Overfull \vbox (16.70607pt too high) has occurred while \output is active []
 
 
 [37]
-Overfull \vbox (11.4623pt too high) has occurred while \output is active []
+Overfull \vbox (3.24232pt too high) has occurred while \output is active []
 
 
 [38]
-Overfull \vbox (13.69pt too high) has occurred while \output is active []
+Overfull \vbox (19.86229pt too high) has occurred while \output is active []
 
- [39]
-Overfull \vbox (11.08994pt too high) has occurred while \output is active []
+
+[39]
+Overfull \vbox (10.35628pt too high) has occurred while \output is active []
 
 
 [40]
-Overfull \vbox (14.10603pt too high) has occurred while \output is active []
+Overfull \vbox (13.7228pt too high) has occurred while \output is active []
 
 
-[41]
-Overfull \vbox (8.26228pt too high) has occurred while \output is active []
-
-
-[42]
-Overfull \vbox (19.26231pt too high) has occurred while \output is active []
+[41] [42]
+Overfull \vbox (19.3061pt too high) has occurred while \output is active []
 
 
 [43]
-Overfull \vbox (14.1061pt too high) has occurred while \output is active []
+Overfull \vbox (14.0623pt too high) has occurred while \output is active []
 
 
 [44] [45]
@@ -1825,61 +1767,45 @@ Overfull \vbox (10.86226pt too high) has occurred while \output is active []
 
 
 [46]
-Overfull \vbox (13.50606pt too high) has occurred while \output is active []
+Overfull \vbox (13.34181pt too high) has occurred while \output is active []
 
 
 [47]
-Overfull \vbox (19.30608pt too high) has occurred while \output is active []
+Overfull \vbox (19.26228pt too high) has occurred while \output is active []
 
 
 [48]
-Overfull \vbox (8.30605pt too high) has occurred while \output is active []
-
-
-[49]
-Overfull \hbox (3.73775pt too wide) in paragraph at lines 861--874
-\TU/LinuxLibertineO(0)/m/n/10.95 Crasso[], homens jovens, obtendo enorme poder 
-quando
- []
-
-
-Overfull \vbox (16.7061pt too high) has occurred while \output is active []
-
-
-[50]
-Overfull \vbox (19.30608pt too high) has occurred while \output is active []
-
-
-[51]
-Overfull \vbox (8.30605pt too high) has occurred while \output is active []
-
-
-[52]
-Overfull \hbox (5.89363pt too wide) in paragraph at lines 944--963
-\TU/LinuxLibertineO(0)/m/n/10.95 atribuiria ao excelente cônsul a odiosidade de
- uma guerra
- []
-
-
 Overfull \vbox (8.26225pt too high) has occurred while \output is active []
 
 
-[53] [54] [55]
-Overfull \hbox (0.7581pt too wide) in paragraph at lines 1011--1035
-\TU/LinuxLibertineO(0)/m/n/10.95 dissimulava, pela carta e pelas conversas que 
-costumava
+[49]
+Underfull \hbox (badness 1158) in paragraph at lines 862--875
+\TU/LinuxLibertineO(0)/m/n/10.95 individualmente, por seu próprio poder, simula
+ndo
  []
 
-[56]
-Overfull \vbox (16.70607pt too high) has occurred while \output is active []
+[50]
+Overfull \vbox (14.1061pt too high) has occurred while \output is active []
+
+
+[51]
+Overfull \vbox (19.26228pt too high) has occurred while \output is active []
+
+
+[52]
+Overfull \vbox (8.26225pt too high) has occurred while \output is active []
+
+
+[53] [54] [55] [56]
+Overfull \vbox (1.95631pt too high) has occurred while \output is active []
 
 
 [57] [58] [59] [60]
-Overfull \vbox (8.26228pt too high) has occurred while \output is active []
+Overfull \vbox (8.30608pt too high) has occurred while \output is active []
 
 
 [61]
-Overfull \vbox (8.48999pt too high) has occurred while \output is active []
+Overfull \vbox (14.10606pt too high) has occurred while \output is active []
 
 
 [62]
@@ -1887,69 +1813,61 @@ Overfull \vbox (10.86226pt too high) has occurred while \output is active []
 
 
 [63]
-Overfull \vbox (11.4623pt too high) has occurred while \output is active []
+Overfull \vbox (19.90611pt too high) has occurred while \output is active []
 
 
 [64]
-Overfull \vbox (19.86229pt too high) has occurred while \output is active []
+Overfull \vbox (5.70607pt too high) has occurred while \output is active []
 
 
 [65]
-Overfull \vbox (19.86226pt too high) has occurred while \output is active []
+Overfull \vbox (9.50603pt too high) has occurred while \output is active []
 
 
 [66] [67]
-Overfull \vbox (17.30614pt too high) has occurred while \output is active []
+Overfull \vbox (16.66231pt too high) has occurred while \output is active []
 
 
 [68]
-Overfull \vbox (19.86226pt too high) has occurred while \output is active []
+Overfull \vbox (20.50606pt too high) has occurred while \output is active []
 
 
 [69]
-Overfull \vbox (8.26228pt too high) has occurred while \output is active []
+Overfull \vbox (10.90605pt too high) has occurred while \output is active []
 
 
 [70]
-Overfull \vbox (16.66228pt too high) has occurred while \output is active []
+Overfull \vbox (10.90608pt too high) has occurred while \output is active []
 
 
-[71] [72]
-Overfull \vbox (14.10606pt too high) has occurred while \output is active []
+[71]
+Overfull \vbox (19.30605pt too high) has occurred while \output is active []
+
+
+[72]
+Overfull \vbox (10.86226pt too high) has occurred while \output is active []
 
 
 [73]
-Overfull \hbox (0.16435pt too wide) in paragraph at lines 1397--1419
+Overfull \hbox (0.16435pt too wide) in paragraph at lines 1398--1420
 \TU/LinuxLibertineO(0)/m/n/10.95 não recusa do que merecesse ser concedido; bus
 cava um
  []
 
 
-Overfull \vbox (8.90611pt too high) has occurred while \output is active []
+Overfull \vbox (12.10612pt too high) has occurred while \output is active []
 
 
 [74]
-Overfull \vbox (8.90608pt too high) has occurred while \output is active []
-
-
-[75]
-Overfull \hbox (2.38602pt too wide) in paragraph at lines 1462--1481
-\TU/LinuxLibertineO(0)/m/n/10.95 rança de pilhagens ou pelo desejo de revolução
-, dispersa-
- []
-
-
-Overfull \hbox (3.5723pt too wide) in paragraph at lines 1462--1481
-\TU/LinuxLibertineO(0)/m/n/10.95 lhor a fazer em tal situação era tentar a fort
-una na guerra,
- []
-
-
 Overfull \vbox (14.10606pt too high) has occurred while \output is active []
 
 
+[75]
+Overfull \vbox (16.70607pt too high) has occurred while \output is active []
+
+
 [76]
-Overfull \vbox (13.50606pt too high) has occurred while \output is active []
+Overfull \vbox (19.30608pt too high) has occurred while \output is active []
 
 
 [77]
@@ -1957,469 +1875,188 @@ Overfull \vbox (13.50606pt too high) has occurred while \output is active []
 
 
 [78]
-Overfull \vbox (10.86226pt too high) has occurred while \output is active []
+Overfull \vbox (10.90605pt too high) has occurred while \output is active []
 
 
 [79]
-Overfull \vbox (15.55629pt too high) has occurred while \output is active []
+Overfull \vbox (16.66225pt too high) has occurred while \output is active []
 
 
 [80]
-Overfull \vbox (14.0623pt too high) has occurred while \output is active []
+Overfull \vbox (19.26228pt too high) has occurred while \output is active []
 
 
-[81]) (./POSFACIO.tex [82]
+[81]
+Overfull \vbox (10.86226pt too high) has occurred while \output is active []
+
+
+[82]) (./POSFACIO.tex [83] [84
+
+]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 
-Overfull \hbox (11.23721pt too wide) in paragraph at lines 27--45
-\TU/LinuxLibertineO(0)/m/n/10.95 toriadores como Veleio Patérculo, Valério Máxi
-mo, Quinto
- []
-
-
-Overfull \vbox (10.36429pt too high) has occurred while \output is active []
-
-
-[83
-
-]
-Overfull \hbox (5.48785pt too wide) in paragraph at lines 46--58
-\TU/LinuxLibertineO(0)/m/n/10.95 forme atestam abundantes registros do período[
-]. Quanto
- []
-
-
-Overfull \hbox (3.92322pt too wide) in paragraph at lines 46--58
-\TU/LinuxLibertineO(0)/m/n/10.95 período em que Salústio alcançou enorme popula
-ridade[],
- []
-
-
-Overfull \vbox (16.70616pt too high) has occurred while \output is active []
-
-
-[84]
-Overfull \vbox (6.12016pt too high) has occurred while \output is active []
+Overfull \vbox (10.03578pt too high) has occurred while \output is active []
 
 
 [85]
-Overfull \vbox (17.86235pt too high) has occurred while \output is active []
+Overfull \vbox (16.70616pt too high) has occurred while \output is active []
 
 
 [86]
-Overfull \vbox (14.28468pt too high) has occurred while \output is active []
+Overfull \vbox (19.72017pt too high) has occurred while \output is active []
 
 
 [87]
-Overfull \vbox (7.75636pt too high) has occurred while \output is active []
+Overfull \vbox (17.86235pt too high) has occurred while \output is active []
 
 
 [88]
-Overfull \vbox (12.06227pt too high) has occurred while \output is active []
+Overfull \vbox (14.28468pt too high) has occurred while \output is active []
 
 
 [89]
-Overfull \vbox (14.66234pt too high) has occurred while \output is active []
+Overfull \vbox (7.75636pt too high) has occurred while \output is active []
 
 
 [90]
-Overfull \vbox (10.10603pt too high) has occurred while \output is active []
+Overfull \vbox (14.70607pt too high) has occurred while \output is active []
 
 
 [91]
-Overfull \hbox (1.55939pt too wide) in paragraph at lines 226--233
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Expulsões desse gênero costumavam ocorrer po
-r im-
- []
-
-
-Overfull \hbox (0.83844pt too wide) in paragraph at lines 226--233
-\TU/LinuxLibertineO(0)/m/n/10.95 probidade, quer na vida privada, quer na polít
-ica[]. Con-
- []
-
-
-Overfull \vbox (7.15636pt too high) has occurred while \output is active []
+Overfull \vbox (14.66234pt too high) has occurred while \output is active []
 
 
 [92]
-Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
-Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-
-Overfull \vbox (15.55638pt too high) has occurred while \output is active []
+Overfull \vbox (10.06224pt too high) has occurred while \output is active []
 
 
 [93]
-Overfull \hbox (3.26392pt too wide) in paragraph at lines 294--304
-[]\TU/LinuxLibertineO(0)/m/n/10.95 De Salústio chegaram até nós duas monografia
-s com-
- []
+Overfull \vbox (19.30614pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (8.3061pt too high) has occurred while \output is active []
+[94]
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+
+Overfull \vbox (19.26231pt too high) has occurred while \output is active []
 
 
-[94] [95]
-Overfull \vbox (10.48999pt too high) has occurred while \output is active []
+[95] [96] [97] [98]
+Overfull \vbox (19.26231pt too high) has occurred while \output is active []
 
 
-[96]
-Overfull \hbox (1.80196pt too wide) in paragraph at lines 358--385
-\TU/LinuxLibertineO(0)/m/n/10.95 nação de serviços à República com historiograf
-ia tornou-
- []
-
-
-Overfull \hbox (1.84583pt too wide) in paragraph at lines 358--385
-\TU/LinuxLibertineO(0)/m/n/10.95 se uma tradição fortemente estabelecida em Rom
-a[]. Tal
- []
-
-
-Overfull \vbox (16.66231pt too high) has occurred while \output is active []
-
-
-[97]
-Overfull \vbox (15.55641pt too high) has occurred while \output is active []
-
-
-[98] [99]
-Overfull \vbox (13.46227pt too high) has occurred while \output is active []
+[99]
+Overfull \vbox (14.10616pt too high) has occurred while \output is active []
 
 
 [100] [101]
-Overfull \vbox (13.02235pt too high) has occurred while \output is active []
+Overfull \vbox (13.46227pt too high) has occurred while \output is active []
 
 
-[102]
-Overfull \vbox (19.37746pt too high) has occurred while \output is active []
+[102] [103] [104]
+Overfull \vbox (19.93745pt too high) has occurred while \output is active []
 
 
-[103]
-Overfull \hbox (5.41547pt too wide) in paragraph at lines 516--525
-\TU/LinuxLibertineO(0)/m/n/10.95 Salústio efetua uma imitação com variação, int
-roduzindo,
- []
+[105]
+Overfull \vbox (16.95981pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (20.15982pt too high) has occurred while \output is active []
-
-
-[104] [105]
-Overfull \hbox (2.51569pt too wide) in paragraph at lines 583--591
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Para o público contemporâneo de Salústio, um
-a com-
- []
-
-[106]
+[106] [107] [108]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 
-Overfull \hbox (22.65007pt too wide) in paragraph at lines 596--609
-\TU/LinuxLibertineO(0)/m/n/10 como a maioria, lancei-me com ardor à vida públic
-a, e enfrentaram-
- []
-
-
-Overfull \vbox (13.07495pt too high) has occurred while \output is active []
-
-
-[107]
-Overfull \hbox (1.69981pt too wide) in paragraph at lines 625--635
-\TU/LinuxLibertineO(0)/m/n/10.95 mente justificado em abandonar a vida pública 
-e dedicar-
- []
-
-
-Overfull \hbox (5.80971pt too wide) in paragraph at lines 644--656
-\TU/LinuxLibertineO(0)/m/n/10.95 nha, é feita longo em seguida, quando diz “con
-cisamente”,
- []
-
-
-Overfull \vbox (12.7598pt too high) has occurred while \output is active []
-
-
-[108]
-Overfull \vbox (16.73201pt too high) has occurred while \output is active []
+Overfull \vbox (17.83496pt too high) has occurred while \output is active []
 
 
 [109]
-Overfull \hbox (0.9134pt too wide) in paragraph at lines 705--721
-\TU/LinuxLibertineO(0)/m/n/10 sim, \TU/LinuxLibertineO(0)/m/it/10 gloria\TU/Lin
-uxLibertineO(0)/m/n/10 , pelo exercício das \TU/LinuxLibertineO(0)/m/it/10 bona
-e artes \TU/LinuxLibertineO(0)/m/n/10 — incluindo-se ener-
- []
+Overfull \vbox (6.40356pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (20.80751pt too high) has occurred while \output is active []
+[110] [111] [112]
+Overfull \vbox (19.70107pt too high) has occurred while \output is active []
 
 
-[110]
-Overfull \hbox (6.78424pt too wide) in paragraph at lines 724--734
-\TU/LinuxLibertineO(0)/m/n/10.95 próprio protagonista, imediatamente após o pre
-fácio (§\TU/LinuxLibertineO(0)/m/sc/10.95 v\TU/LinuxLibertineO(0)/m/n/10.95 ),
- []
+[113] [114] [115] [116] [117]
+Overfull \vbox (15.43726pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (16.63351pt too high) has occurred while \output is active []
-
-
-[111]
-Overfull \hbox (1.41145pt too wide) in paragraph at lines 744--749
-\TU/LinuxLibertineO(0)/m/n/10.95 gunda digressão, em \TU/LinuxLibertineO(0)/m/s
-c/10.95 xviii-xix\TU/LinuxLibertineO(0)/m/n/10.95 , trata da suposta primeira
- []
-
-[112] [113]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [114]
-Overfull \hbox (3.3534pt too wide) in paragraph at lines 818--827
-\TU/LinuxLibertineO(0)/m/n/10 consulares, sobretudo a todos os bons cidadãos, e
-m que afirma
- []
-
-[115]
-Overfull \vbox (16.50114pt too high) has occurred while \output is active []
-
-
-[116]
-Overfull \hbox (0.67339pt too wide) in paragraph at lines 861--865
-\TU/LinuxLibertineO(0)/m/n/10 ções haviam sido forjadas por aqueles que acredit
-avam abran-
- []
-
-
-Overfull \hbox (2.42006pt too wide) in paragraph at lines 861--865
-\TU/LinuxLibertineO(0)/m/n/10 dar o ódio que nascera posteriormente contra Cíce
-ro por meio
- []
-
-
-Overfull \vbox (19.05733pt too high) has occurred while \output is active []
-
-
-[117]
+[118] [119]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [118]
-Overfull \hbox (18.28537pt too wide) in paragraph at lines 932--953
-\TU/LinuxLibertineO(0)/m/n/10.95 visível), \TU/LinuxLibertineO(0)/m/it/10.95 pa
-rs…alii \TU/LinuxLibertineO(0)/m/n/10.95 (“parte…outros”), \TU/LinuxLibertineO(
-0)/m/it/10.95 alii…pars \TU/LinuxLibertineO(0)/m/n/10.95 (“uns…parte”)
- []
+Overfull \vbox (17.19254pt too high) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 932--953
-
- []
-
-
-Overfull \vbox (14.99863pt too high) has occurred while \output is active []
+[120] [121]
+Overfull \vbox (8.80362pt too high) has occurred while \output is active []
 
 
-[119]
-Overfull \hbox (4.56673pt too wide) in paragraph at lines 964--970
-\TU/LinuxLibertineO(0)/m/n/10 poder daquele homem, a maioria [\TU/LinuxLibertin
-eO(0)/m/it/10 plerique\TU/LinuxLibertineO(0)/m/n/10 ], devedora a Crasso
- []
+[122] [123]
+Overfull \vbox (7.3726pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (16.83746pt too high) has occurred while \output is active []
-
-
-[120]
-Underfull \vbox (badness 1472) has occurred while \output is active []
-
- [121]
-Overfull \hbox (2.78673pt too wide) in paragraph at lines 993--996
-[]\TU/LinuxLibertineO(0)/m/n/10 quando Salústio estava na moda considerava-se o
- suprassumo
- []
-
-
-Overfull \hbox (11.3734pt too wide) in paragraph at lines 1022--1023
+[124]
+Underfull \hbox (badness 1107) in paragraph at lines 1020--1021
 \TU/LinuxLibertineO(0)/m/it/10 bello domiti, nationes ferae et populi ingentes 
-ui subacti, Carthago,
+ui subacti,
  []
 
-
-Overfull \vbox (17.56767pt too high) has occurred while \output is active []
-
-
-[122]
-Overfull \hbox (36.14484pt too wide) in paragraph at lines 1042--1044
-\TU/LinuxLibertineO(0)/m/n/10.95 e verbo flexionado dentro de um mesmo período,
- acrescentando-
+[125]
+Underfull \hbox (badness 3396) in paragraph at lines 1045--1046
+\TU/LinuxLibertineO(0)/m/it/10 quemque nominans laudare; admonebat alium egesta
+tis,
  []
 
-
-Overfull \hbox (0.48451pt too wide) in paragraph at lines 1047--1048
-[]\TU/LinuxLibertineO(0)/m/it/10 Ad hoc maledictis increpabat omnis bonos; suor
-um unumquem-
- []
-
-[123] [124]
-Overfull \hbox (5.27875pt too wide) in paragraph at lines 1092--1099
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Agradeço a Marlene Lessa Vergílio Borges pel
-o apoio,
- []
-
-
-Overfull \hbox (6.1638pt too wide) in paragraph at lines 1092--1099
-\TU/LinuxLibertineO(0)/m/n/10.95 colegas e, particularmente, a Santo Edi, Saint
- Lévy, Sainte
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [125]
-Overfull \hbox (2.93298pt too wide) in paragraph at lines 1112--1113
-[]\TU/LinuxLibertineO(0)/m/n/9 . \TU/LinuxLibertineO(0)/m/it/9 Roman History\TU
-/LinuxLibertineO(0)/m/n/9 . Vol. III. English translation by Horace White.
- []
-
-
-Overfull \hbox (1.52223pt too wide) in paragraph at lines 1121--1122
-[]\TU/LinuxLibertineO(0)/m/it/9 Letters to Friends\TU/LinuxLibertineO(0)/m/n/9 
-, Vol. II (edited and translated by D. R. SHAC-
- []
-
-
-Overfull \hbox (4.72235pt too wide) in paragraph at lines 1121--1122
-\TU/LinuxLibertineO(0)/m/n/9 KLETON BAILEY). Cambridge/London, Harvard Universi
-ty Press,
- []
-
-[126]
-Overfull \hbox (0.25702pt too wide) in paragraph at lines 1134--1135
-[]\TU/LinuxLibertineO(0)/m/it/9 Salluste — Catilina, Jugurtha, Fragments des Hi
-stoires\TU/LinuxLibertineO(0)/m/n/9 . Les
- []
-
-
-Overfull \hbox (5.95401pt too wide) in paragraph at lines 1143--1144
-[]\TU/LinuxLibertineO(0)/m/it/9 Sallust’s Bellum Catilinae\TU/LinuxLibertineO(0
-)/m/n/9 . 2ª ed., Oxford University Press,
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [127]
-Overfull \hbox (13.262pt too wide) in paragraph at lines 1163--1164
+[126] [127] [128] [129]
+Underfull \hbox (badness 4699) in paragraph at lines 1161--1162
 []\TU/LinuxLibertineO(0)/m/it/9 De Catilinae coniuratione \TU/LinuxLibertineO(0
-)/m/n/9 (a cura di E. MALCOVATI).Torino,
+)/m/n/9 (a cura di E. MALCO-
+ []
+
+[130] [131]
+Underfull \hbox (badness 4872) in paragraph at lines 1215--1216
+[]\TU/LinuxLibertineO(0)/m/it/9 Catalogus Translationum et
  []
 
 
-Overfull \hbox (2.0336pt too wide) in paragraph at lines 1173--1174
-\TU/LinuxLibertineO(0)/m/n/9 RADO E CAMPOS). Lisboa, Fundação Calouste Gulbenki
-an, 1991. 
- []
-
-
-Overfull \hbox (3.98808pt too wide) in paragraph at lines 1179--1180
-\TU/LinuxLibertineO(0)/m/n/9 Translation H. E. Butler. Cambridge, Massachusetts
-, London, 1989. 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [128]
-Overfull \hbox (3.43701pt too wide) in paragraph at lines 1209--1210
-[]\TU/LinuxLibertineO(0)/m/n/9 “Prologue-Form in Ancient Historiography”. In: \
-TU/LinuxLibertineO(0)/m/it/9 Aufstieg und
- []
-
-
-Overfull \hbox (0.88309pt too wide) in paragraph at lines 1213--1214
-\TU/LinuxLibertineO(0)/m/it/9 Annalistic Tradition\TU/LinuxLibertineO(0)/m/n/9 
-. The University of Michigan Press, 1999-2002. 
- []
-
-
-Overfull \hbox (9.89001pt too wide) in paragraph at lines 1217--1218
-[]\TU/LinuxLibertineO(0)/m/it/9 Catalogus Translationum et Com-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [129]
-Overfull \hbox (6.21799pt too wide) in paragraph at lines 1231--1232
-[]\TU/LinuxLibertineO(0)/m/it/9 Authority and Tradition in Ancient Historiograp
-hy\TU/LinuxLibertineO(0)/m/n/9 . Cam-
- []
-
-
-Overfull \hbox (3.92902pt too wide) in paragraph at lines 1235--1236
+Underfull \hbox (badness 10000) in paragraph at lines 1233--1234
 []\TU/LinuxLibertineO(0)/m/n/9 “Sallustius Fortuna”, \TU/LinuxLibertineO(0)/m/i
-t/9 in, Catalogus Trans-
+t/9 in, Catalogus
  []
 
-
-Overfull \hbox (15.33708pt too wide) in paragraph at lines 1235--1236
-\TU/LinuxLibertineO(0)/m/it/9 Translations and Commentaries: Annotated Lists an
-d Guides\TU/LinuxLibertineO(0)/m/n/9 . Washing-
- []
-
-
-Overfull \hbox (3.2351pt too wide) in paragraph at lines 1257--1258
-[]\TU/LinuxLibertineO(0)/m/n/9 ———————- \TU/LinuxLibertineO(0)/m/it/9 Rhetoric 
-in Classical Historiography\TU/LinuxLibertineO(0)/m/n/9 . Routledge, Lon-
- []
-
-)) [130] 
+[132])) [133] 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
-(/home/editorial/texmf/tex/PUBLICIDADE.tex [131
+(/home/editorial/texmf/tex/PUBLICIDADE.tex [134
 
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [132]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [133]
+] [135]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [134]
-Underfull \vbox (badness 1975) has occurred while \output is active []
-
- [135])
-[136
+ [136] [137]) [138
 
 
 ]
 \tf@toc=\write5
 \openout5 = `LIVRO.toc'.
 
- (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux))
+
+(./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26377 strings out of 493010
- 484546 string characters out of 6140134
- 761333 words of memory out of 5000000
- 29864 multiletter control sequences out of 15000+600000
+ 26385 strings out of 493010
+ 484739 string characters out of 6140134
+ 762333 words of memory out of 5000000
+ 29869 multiletter control sequences out of 15000+600000
  543935 words of font info for 107 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
- 55i,12n,87p,10388b,566s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,87p,10412b,568s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (136 pages, 2322684 bytes).
+Output written on LIVRO.xdv (138 pages, 2326200 bytes).

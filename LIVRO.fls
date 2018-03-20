@@ -240,6 +240,8 @@ INPUT /usr/share/texmf-dist/tex/latex/graphics/rotating.sty
 INPUT /usr/share/texmf-dist/tex/latex/graphics/rotating.sty
 INPUT /home/editorial/texmf/tex/versos.sty
 INPUT /home/editorial/texmf/tex/versos.sty
+INPUT /home/editorial/texmf/tex/penalidades.sty
+INPUT /home/editorial/texmf/tex/penalidades.sty
 INPUT gitrevisioninfo.sty
 INPUT gitrevisioninfo.sty
 INPUT LIVRO.aux
