@@ -1,4 +1,4 @@
-PWD /home/editorial/LATEX/salustio_catilina
+PWD /home/editorial/LATEX_felipe/salustio_catilina
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
 INPUT LIVRO.tex
@@ -100,10 +100,12 @@ INPUT /usr/share/texmf-dist/tex/generic/babel-italian/italian.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-german/ngermanb.ldf
-INPUT /usr/share/texmf-dist/tex/generic/babel-french/french.ldf
+INPUT /usr/share/texmf-dist/tex/generic/babel-french/frenchb.ldf
+INPUT /usr/share/texmf-dist/tex/generic/babel-french/frenchb.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-french/french.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
+INPUT /usr/share/texmf-dist/tex/latex/euenc/eu1enc.def
 INPUT /usr/share/texmf-dist/tex/generic/babel-portuges/portuges.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-portuges/portuges.ldf
 INPUT /usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty
@@ -117,8 +119,6 @@ INPUT /usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT /usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
-INPUT /usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-INPUT /usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
 INPUT /usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
 INPUT /usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
@@ -136,6 +136,8 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 INPUT /usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+INPUT /usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/tuenc.def
@@ -251,6 +253,8 @@ INPUT PUBLICIDADE.aux
 OUTPUT LIVRO.aux
 INPUT /usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+INPUT /usr/share/texmf-dist/tex/latex/euenc/eu1lmr.fd
+INPUT /usr/share/texmf-dist/tex/latex/euenc/eu1lmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
